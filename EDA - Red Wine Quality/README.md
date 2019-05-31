@@ -7,18 +7,18 @@ Projeto de análise exploratória de dados, desenvolvido no Nanodegree Data Scie
 * **Quantidade de atributos**: 11 + 1 variável de saída
 * **Valores faltantes**: 0
 
-* **Variáveis de entrada**:
-   1 - fixed acidity (tartaric acid - g / dm^3)
-   2 - volatile acidity (acetic acid - g / dm^3)
-   3 - citric acid (g / dm^3)
-   4 - residual sugar (g / dm^3)
-   5 - chlorides (sodium chloride - g / dm^3
-   6 - free sulfur dioxide (mg / dm^3)
-   7 - total sulfur dioxide (mg / dm^3)
-   8 - density (g / cm^3)
-   9 - pH
-   10 - sulphates (potassium sulphate - g / dm3)
-   11 - alcohol (% by volume)
+* **Variáveis de entrada**:<br/>
+   1 - fixed acidity (tartaric acid - g / dm^3)<br/>
+   2 - volatile acidity (acetic acid - g / dm^3)<br/>
+   3 - citric acid (g / dm^3)<br/>
+   4 - residual sugar (g / dm^3)<br/>
+   5 - chlorides (sodium chloride - g / dm^3<br/>
+   6 - free sulfur dioxide (mg / dm^3)<br/>
+   7 - total sulfur dioxide (mg / dm^3)<br/>
+   8 - density (g / cm^3)<br/>
+   9 - pH<br/>
+   10 - sulphates (potassium sulphate - g / dm3)<br/>
+   11 - alcohol (% by volume)<br/>
 
 * **Variável de saída**: 
    12 - quality (score between 0 and 10)
