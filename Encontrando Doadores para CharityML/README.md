@@ -13,13 +13,10 @@ Este projeto requer **Python 3.7** e as seguintes bibliotecas Python instaladas:
 
 Você também precisará ter software instalado para rodar e executar um [iPython Notebook](http://ipython.org/notebook.html) 
 
-### Código
-
-Um modelo do código é fornecido no arquivo notebook `finding_donors.ipynb`. Você também precisará usar o arquivo Python `visuals.py` e o arquivo de dados `census.csv` para concluir seu trabalho. Mesmo que parte do código já tenha sido fornecida para ajudá-lo a começar, você precisará implementar funcionalidades adicionais em alguns pontos para conseguir completar o projeto com sucesso. Note que o código incluído em `visuals.py` foi feito para ser utilizado do jeito que está, sem manipulação por parte dos alunos. Mas, se você estiver interessado em saber como as visualizações são criadas no notebook, fique à vontade para explorar esse arquivo Python.
 
 ### Execução
 
-Em um terminal ou janela de comando, navegue até o diretório raiz de projeto `finding_donors/` (que contém este README) e execute os seguintes comandos:
+Em um terminal ou janela de comando, navegue até o diretório raiz de projeto (que contém este README) e execute os seguintes comandos:
 
 ```bash
 ipython notebook finding_donors_PT.ipynb
